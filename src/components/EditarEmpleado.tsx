@@ -3,6 +3,7 @@ import { appsettings } from "../settings/appsettings";
 import { useNavigate, useParams } from "react-router-dom";
 import Swal from "sweetalert2";
 import { IEmpleado } from "../interfaces/IEmpleado";
+
 import {
   Container,
   Row,
