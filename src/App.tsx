@@ -5,7 +5,7 @@ import { EditarEmpleado } from "./components/EditarEmpleado"
 
 
 
-//Se raliza la ocnfiguracion de las rutas
+//Se raliza la configuracion de las rutas
 function App() {
 
   return (
